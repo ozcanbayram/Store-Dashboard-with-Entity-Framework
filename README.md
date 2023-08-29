@@ -1,6 +1,14 @@
 # Store-Dashboard-with-Entity-Framework
-< img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt = "csharp" width = "40" height = "40"/>  
-<img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt = "mysql" width = "40" height = "40"/>
+
+<h3 align="center">Hindistan'dan tutkulu bir ön uç geliştiricisi</h3>
+
+<h3 align="left">Benimle bağlantı kurun:</h3>
+<p align="left">
+</p>
+
+<h3 align= "left">Diller ve Araçlar:</h3>
+<p align = "left"> <a href = "https://www.w3schools.com/cs/" target = "_blank" rel = "noreferrer"> < img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt = "csharp" width = "40" height = "40"/> </a > <a href = "https://www.mysql.com/" target = "_blank" rel = "noreferrer"> <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt = "mysql" width = "40" height = "40"/> </a> </p>
+
 In this project, I created a ready-to-use product, customer, category and statistics control panel for a store using C# and Sql with Entity Framework, an object-relational mapping (ORM) framework developed by Microsoft.
 
 Turkish: Bu projede Microsoft tarafından geliştirilen ve üzerinde çalışan nesne ilişkisel haritalama (ORM) çerçevesi olan Entity Framework ile C# ve Sql kullanarak bir mağaza için kullanıma hazır ürün, müşteri, kategori ve istatistik kontrol paneli oluşturdum.
