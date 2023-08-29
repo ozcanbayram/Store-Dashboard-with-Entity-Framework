@@ -1,8 +1,8 @@
 # Store-Dashboard-with-Entity-Framework
 
 <h3 align="left">Diller ve Araçlar:</h3>
-<p align="left ">
-<img src = "https://raw.githubusercontent.com/devicons/devicon/ master/icons/csharp/csharp-original.svg" alt = "csharp" width = "40" height = "40"/>
+<img src = "https://www.codingtxt.com/media/blog_images/csharp_banner.png" alt = "csharp" width = "40" height = "40"/>
+
 <a href = "https://www.mysql.com/" hedef ="_blank" rel = "noreferrer"> 
 <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt = "mysql" width = "40" height = "40"/> 
 </a>
