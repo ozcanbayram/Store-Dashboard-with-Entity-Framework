@@ -1,5 +1,5 @@
 # Store-Dashboard-with-Entity-Framework
-<h3 align="left">Diller ve Araçlar:</h3>
+<h3 align="left">Languages ​​and Tools:</h3>
 <img src = "https://www.freeiconspng.com/uploads/c-logo-icon-18.png" alt = "csharp" width = "40" height = "40"/><img src = "https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-securing-mysql-and-connecting-wso-servers-yasassri-blog-18.png" alt = "mysql" width = "60" height = "40"/> <img src = "https://pathowe.co.uk/wp-content/uploads/2017/09/efcf.png" alt = "EntityFramework" width = "60" height = "40"/> 
 
 
