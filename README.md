@@ -1,5 +1,5 @@
 # Store-Dashboard-with-Entity-Framework
- < img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt = "csharp" width = "40" height = "40"/>  
+< img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt = "csharp" width = "40" height = "40"/>  
 <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt = "mysql" width = "40" height = "40"/>
 In this project, I created a ready-to-use product, customer, category and statistics control panel for a store using C# and Sql with Entity Framework, an object-relational mapping (ORM) framework developed by Microsoft.
 
