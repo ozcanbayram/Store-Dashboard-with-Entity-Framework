@@ -3,7 +3,7 @@
 
 ## Languages ​​and Tools:
 
-![My Skills](https://skillicons.dev/icons?i=cs,mysql)
+![My Skills](https://skillicons.dev/icons?i=cs,mysql,visualstudio)
 <img src = "https://pathowe.co.uk/wp-content/uploads/2017/09/efcf.png" alt = "EntityFramework" width = "60" height = "40"/> 
 
 
