@@ -1,7 +1,7 @@
 # Store-Dashboard-with-Entity-Framework
 
 
-<h3 align="left">Languages ​​and Tools:</h3>
+## Languages ​​and Tools:
 
 ![My Skills](https://skillicons.dev/icons?i=cs,mysql)
 <img src = "https://pathowe.co.uk/wp-content/uploads/2017/09/efcf.png" alt = "EntityFramework" width = "60" height = "40"/> 
