@@ -212,6 +212,7 @@
             this.btnTemizle.TabIndex = 18;
             this.btnTemizle.Text = "TEMİZLE";
             this.btnTemizle.UseVisualStyleBackColor = true;
+            this.btnTemizle.Click += new System.EventHandler(this.btnTemizle_Click);
             // 
             // dataGridView1
             // 
